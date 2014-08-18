@@ -6,7 +6,7 @@
     "syntax"
   ],
   "homepage": "https://highlightjs.org/",
-  "version": "8.1.0",
+  "version": "8.1.0-gitter",
   "author": {
     "name": "Ivan Sagalaev",
     "email": "maniac@softwaremaniacs.org"
@@ -25,7 +25,7 @@
     "type": "git",
     "url": "git://github.com/isagalaev/highlight.js.git"
   },
-  "main": "./lib/index.js",
+  "main": "./build/lib/index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha test/"
   },
